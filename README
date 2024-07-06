@@ -1,0 +1,12 @@
+To have a smooth experience in navigating through this project make sure you have all the files, image and folders
+This project currently has 3 folders in the main folder Chef @ Home
+i.e,
+
+1. Favicon > icon.png
+2. images > chefsfav.jpg classic.jpg dosa.jpeg gourmet.jpg img-1.jpg img-2.jpg img-4.jpg italian.jpeg nonveg.jpeg premium.jpeg sweet.jpeg veg.jpg
+3. Logo > Chef At Home (1).png
+
+In the main folder Chef @ Home it has some files i.e,
+index.html style.css script.js which are the main project and also has wip.html wip.css
+
+Load the main folder and go to this index.html file, if in VSCode in your keyboard press ALT L ALT O and the page should open in your browser in a couple of seconds or you can manually open it with live server.
